@@ -109,7 +109,7 @@ Before executing main_func.py, one should choose which model, dataset, and CLIP 
 
 Experiments are run by calling main function:
 ```sh
-python main.py --device=cuda --config=configs/config_clip.json
+python main_func.py --device=cuda --config=configs/config_clip.json
 ```
 > **NOTE:** One can choose on which device to run experiments(i.e., cpu or cuda).
 
