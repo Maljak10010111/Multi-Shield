@@ -90,7 +90,7 @@ Before executing main_func.py, one should choose which model, dataset, and CLIP 
     ]
 }
 ```
-
+> **NOTE:** If you would like to load entire CIFAR-10 testset (10k) samples type 0 instead of 10000 under the section "n_samples".
 #### ImageNet
 ```json
 {
